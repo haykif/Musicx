@@ -10,7 +10,7 @@
 
 > Pour en savoir plus sur les commandes du bot, utilisez donc la commande: `-help`
 
-![](musicx.ico)
+![Logo de Musicx, "aberrant frerot!"](musicx.ico)
 
 _Une journée sans musique est une journée sans perdue; alors écoutez de la Musicx..._
 
