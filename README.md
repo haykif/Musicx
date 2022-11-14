@@ -12,7 +12,7 @@
 
 ![](musicx.ico)
 
-_Une journée sans musique est une journée sans perdue; alors écoutez de la Musicx_
+_Une journée sans musique est une journée sans perdue; alors écoutez de la Musicx..._
 
 # Musicx© is a brand designed and made by 
                                         Hamza AYDOGDU
