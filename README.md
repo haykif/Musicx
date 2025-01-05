@@ -12,7 +12,7 @@
 
 ![Logo de Musicx, "aberrant frerot!"](musicx.ico)
 
-_Une journée sans musique est une journée sans perdue; alors écoutez de la Musicx..._
+_Une journée sans musique est une journée perdue; alors écoutez de la Musicx..._
 
 # Musicx© is a brand designed and made by 
                                         Hamza AYDOGDU
